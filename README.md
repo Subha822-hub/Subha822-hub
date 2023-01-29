@@ -6,11 +6,22 @@
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ Stay Connected With Me 
 - 📫 How to reach me : suseraj1974@gmail.com
+- [Portfolio](https://subha822-hub.github.io/)
 
 
+<h3 align="left">My Coding Profiles</h3>
+<p align="left">
+<a href="https://www.codechef.com/users/suseraj1974" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suseraj1974" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/suseraj1974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suseraj1974" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/susera0e3u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="susera0e3u" height="30" width="40" /></a>  
+<a href="https://www.hackerrank.com/suseraj1974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suseraj1974" height="30" width="40" /></a>
+</p>
 
-
-
+<h3 align="left">My Social Profiles</h3>
+<p align="left">
+<a href="https://linkedin.com/in/subharajagopal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subha rajagopal" height="30" width="40" /></a>
+<a href="https://instagram.com/suseraj1974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suseraj1974" height="30" width="40" /></a>
+</p>
 <h3 align="left">Follow with me:</h3>
 
 
